@@ -1,0 +1,42 @@
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\bin\Debug\Conditionals Excersizes!.exe.config
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\bin\Debug\Conditionals Excersizes!.exe
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\bin\Debug\Conditionals Excersizes!.pdb
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\bin\Debug\Conditionals Excersizes!.xml
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.vbprojAssemblyReference.cache
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmConditionals.resources
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.Resources.resources
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmReadyForSchool.resources
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.vbproj.GenerateResource.cache
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.vbproj.CoreCompileInputs.cache
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.exe
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.xml
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.pdb
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmRandomNums.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\bin\Debug\Conditionals Excersizes!.exe.config
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\bin\Debug\Conditionals Excersizes!.exe
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\bin\Debug\Conditionals Excersizes!.pdb
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\bin\Debug\Conditionals Excersizes!.xml
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.vbprojAssemblyReference.cache
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmConditionals.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.Resources.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmRandomNums.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmReadyForSchool.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.vbproj.GenerateResource.cache
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.vbproj.CoreCompileInputs.cache
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.exe
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.xml
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals Excersizes!.pdb
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmGuessit.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmGuessit.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmMyGrades.resources
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmQuickCuts.resources
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmMyGrades.resources
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmWindChill.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmQuickCuts.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmWindChill.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmCellPhone.resources
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmCellPhone.resources
+F:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmSuperSize.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmSuperSize.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmChoccyMilk.resources
+H:\Computer Programming I\Conditionals Excersizes!\Conditionals Excersizes!\obj\Debug\Conditionals_Excersizes_.frmOceanZones.resources
