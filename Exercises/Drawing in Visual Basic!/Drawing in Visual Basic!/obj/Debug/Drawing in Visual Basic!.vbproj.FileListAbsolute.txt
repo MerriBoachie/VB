@@ -1,0 +1,13 @@
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\bin\Debug\Drawing in Visual Basic!.exe.config
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\bin\Debug\Drawing in Visual Basic!.exe
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\bin\Debug\Drawing in Visual Basic!.pdb
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\bin\Debug\Drawing in Visual Basic!.xml
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\obj\Debug\Drawing in Visual Basic!.vbprojAssemblyReference.cache
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\obj\Debug\Drawing_in_Visual_Basic_.frmDrawingShapes.resources
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\obj\Debug\Drawing_in_Visual_Basic_.Resources.resources
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\obj\Debug\Drawing in Visual Basic!.vbproj.GenerateResource.cache
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\obj\Debug\Drawing in Visual Basic!.vbproj.CoreCompileInputs.cache
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\obj\Debug\Drawing in Visual Basic!.exe
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\obj\Debug\Drawing in Visual Basic!.xml
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\obj\Debug\Drawing in Visual Basic!.pdb
+F:\Computer Programming I\Drawing in Visual Basic!\Drawing in Visual Basic!\obj\Debug\Drawing_in_Visual_Basic_.frmDrawShip.resources
