@@ -1,0 +1,36 @@
+F:\Computer Programming I\Math and Strings!\Math and Strings!\bin\Debug\Math and Strings!.exe.config
+F:\Computer Programming I\Math and Strings!\Math and Strings!\bin\Debug\Math and Strings!.exe
+F:\Computer Programming I\Math and Strings!\Math and Strings!\bin\Debug\Math and Strings!.pdb
+F:\Computer Programming I\Math and Strings!\Math and Strings!\bin\Debug\Math and Strings!.xml
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.vbprojAssemblyReference.cache
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmMathAndStrings.resources
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.Resources.resources
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.vbproj.GenerateResource.cache
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.vbproj.CoreCompileInputs.cache
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.exe
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.xml
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.pdb
+H:\Computer Programming I\Math and Strings!\Math and Strings!\bin\Debug\Math and Strings!.exe.config
+H:\Computer Programming I\Math and Strings!\Math and Strings!\bin\Debug\Math and Strings!.exe
+H:\Computer Programming I\Math and Strings!\Math and Strings!\bin\Debug\Math and Strings!.pdb
+H:\Computer Programming I\Math and Strings!\Math and Strings!\bin\Debug\Math and Strings!.xml
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.vbprojAssemblyReference.cache
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmMathAndStrings.resources
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmMathFun.resources
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.Resources.resources
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.vbproj.GenerateResource.cache
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.vbproj.CoreCompileInputs.cache
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.exe
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.xml
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math and Strings!.pdb
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmMyInitials.resources
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmMyName.resources
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmRemoveWord.resources
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmReplace.resources
+H:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmWhichComesFirst.resources
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmMathFun.resources
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmMyInitials.resources
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmMyName.resources
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmRemoveWord.resources
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmReplace.resources
+F:\Computer Programming I\Math and Strings!\Math and Strings!\obj\Debug\Math_and_Strings_.frmWhichComesFirst.resources
