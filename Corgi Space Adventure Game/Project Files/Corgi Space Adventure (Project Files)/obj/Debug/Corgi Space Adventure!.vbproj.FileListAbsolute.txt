@@ -1,0 +1,43 @@
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.exe.config
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.exe
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.pdb
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.xml
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.vbprojAssemblyReference.cache
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.frmTitleScreen.resources
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.Resources.resources
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.vbproj.GenerateResource.cache
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.vbproj.CoreCompileInputs.cache
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.exe
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.xml
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.pdb
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.frmGame.resources
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.exe.config
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.exe
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.pdb
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.xml
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.vbprojAssemblyReference.cache
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.frmTitleScreen.resources
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.frmGame.resources
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.Resources.resources
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.vbproj.GenerateResource.cache
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.vbproj.CoreCompileInputs.cache
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.exe
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.xml
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.pdb
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.frmGameOver.resources
+F:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.frmGameOver.resources
+H:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.frmHighScore.resources
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.exe.config
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.exe
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.pdb
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\bin\Debug\Corgi Space Adventure!.xml
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.vbprojAssemblyReference.cache
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.frmTitleScreen.resources
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.frmGameOver.resources
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.frmGame.resources
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi_Space_Adventure_.Resources.resources
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.vbproj.GenerateResource.cache
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.vbproj.CoreCompileInputs.cache
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.exe
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.xml
+E:\Computer Programming I\Corgi Space Adventure!\Corgi Space Adventure!\obj\Debug\Corgi Space Adventure!.pdb
