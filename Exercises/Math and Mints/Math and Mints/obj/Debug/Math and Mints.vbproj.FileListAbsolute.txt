@@ -1,0 +1,15 @@
+F:\Computer Programming I\Math and Mints\Math and Mints\bin\Debug\Math and Mints.exe.config
+F:\Computer Programming I\Math and Mints\Math and Mints\bin\Debug\Math and Mints.exe
+F:\Computer Programming I\Math and Mints\Math and Mints\bin\Debug\Math and Mints.pdb
+F:\Computer Programming I\Math and Mints\Math and Mints\bin\Debug\Math and Mints.xml
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math and Mints.vbprojAssemblyReference.cache
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math_and_Mints.frmChoose.resources
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math_and_Mints.frmMath.resources
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math_and_Mints.Resources.resources
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math and Mints.vbproj.GenerateResource.cache
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math and Mints.vbproj.CoreCompileInputs.cache
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math and Mints.exe
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math and Mints.xml
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math and Mints.pdb
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math_and_Mints.frmMints.resources
+F:\Computer Programming I\Math and Mints\Math and Mints\obj\Debug\Math_and_Mints.frmBacteria.resources
